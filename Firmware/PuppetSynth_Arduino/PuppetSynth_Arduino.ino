@@ -143,7 +143,8 @@ void loop(){
                 sendMIDIControlChange(mappings[i].midiChannel, mappings[i].mappedSignal);
                 #if DEBUG 
                     Serial.print(mappings[i].functionName); Serial.print(": Pin "); Serial.print(mappings[i].pinNumber);
-                    Serial.print(" -> Output "); Serial.println(outputValue);
+                    Serial.print(" Read Signal: "); Serial.println(mappings[i].readSignal);
+                    Serial.print(" Mapped Signal: "); Serial.println(mappings[i].mappedSignal);
                 #endif
             }
         }
@@ -151,12 +152,6 @@ void loop(){
     
     //Ensure all Midi messages are sent
     MidiUSB.flush();
-
-    for (int i = 0; i < numSignals; i++) {
-        Serial.print(mappings[i].functionName); Serial.print(": Pin "); Serial.print(mappings[i].pinNumber);
-        Serial.print(" -> Output "); Serial.println(outputValue);
-    }
-    delay(500);
 
 }
 
