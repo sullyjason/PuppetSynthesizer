@@ -45,6 +45,10 @@ struct InputMapping {
 	int midiChannel;            // MIDI Channel number ("control" in helper function)
 };
 
+
+// The following values need to be modified if any changes are made to the hardware. Currently configured with 2 ADS1115s, called analogBoard1 and analogBoard2.
+// The remaining analog inputs are connected to the Arduino directly.
+
 InputMapping mappings[] = {
 
 //  Number   functionName       pinNumber   readSignal  inMin, inMax    outMin, outMax  	mappedSignal    midiChannel
