@@ -11,6 +11,12 @@ client, aim, timeline
 
 name, role, github handle
 
+Lisa Bach (@ ) - Unity 3D and creative direction(????).......
+Silvan Roth (@sullyjason) - Interface design and hardware
+Jan Hügli - Prototyping and production
+Jan Thürig (@ ) - Unity 3D .............
+Jan Espig (@ ) - Visual Design
+
 ## Concept
 
 ## Implementation
