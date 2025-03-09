@@ -6511,7 +6511,7 @@
 			(uuid "9cd783cc-a1d1-45e5-94be-b0a272b2b82c")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "#PWR016")
 					(unit 1)
@@ -6577,7 +6577,7 @@
 			(uuid "20a48136-59f5-4d3e-8498-f67e9078a94c")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "#PWR013")
 					(unit 1)
@@ -6651,7 +6651,7 @@
 			(uuid "bafff738-95f8-49e9-8b27-3d524c7173a4")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "10k")
 					(unit 1)
@@ -6717,7 +6717,7 @@
 			(uuid "73e16652-5dea-4090-b16a-c763efc3b8ac")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "#PWR024")
 					(unit 1)
@@ -6786,7 +6786,7 @@
 			(uuid "e99d5a09-2f83-4ad7-908e-f6632160ea23")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "R15")
 					(unit 1)
@@ -6852,7 +6852,7 @@
 			(uuid "4c99c753-96b4-48f7-81de-479b1460df3f")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "#PWR028")
 					(unit 1)
@@ -6918,7 +6918,7 @@
 			(uuid "9310b31b-6691-48b1-a5b7-c86aa3a8226c")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "#PWR030")
 					(unit 1)
@@ -6987,7 +6987,7 @@
 			(uuid "05cd1006-32d4-4a01-ab32-502c38c2ddf2")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "R19")
 					(unit 1)
@@ -7061,7 +7061,7 @@
 			(uuid "6962da55-a22f-4972-836f-c12952744185")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "J8")
 					(unit 1)
@@ -7126,7 +7126,7 @@
 			(uuid "bb03ddb5-da81-4470-a0cd-97fe9a01741e")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "#PWR02")
 					(unit 1)
@@ -7203,7 +7203,7 @@
 			(uuid "e2ae7600-676e-40cc-b18c-d745fd9b6867")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "J3")
 					(unit 1)
@@ -7277,7 +7277,7 @@
 			(uuid "f1c379bd-cc45-429d-a117-d7c8d82caf16")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "J7")
 					(unit 1)
@@ -7351,7 +7351,7 @@
 			(uuid "070d6969-b8c3-4a4c-bf3b-e8e08235431e")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "10k")
 					(unit 1)
@@ -7417,7 +7417,7 @@
 			(uuid "f1434d12-f840-459d-bd9f-13c460143600")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "#PWR017")
 					(unit 1)
@@ -7484,7 +7484,7 @@
 			(uuid "ffcdbe61-9c4e-4323-a919-f88b94ae7c29")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "#PWR033")
 					(unit 1)
@@ -7550,7 +7550,7 @@
 			(uuid "e7130b85-b13a-47e1-9909-1a7adb7510ee")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "#PWR019")
 					(unit 1)
@@ -7634,7 +7634,7 @@
 			(uuid "4747abc3-8be7-46ee-a4e3-e72d188243c6")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "SW5")
 					(unit 1)
@@ -7704,7 +7704,7 @@
 			(uuid "0a4f2fda-f8cd-4993-ba9b-809e9f27a5fb")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "JP2")
 					(unit 1)
@@ -7771,7 +7771,7 @@
 			(uuid "db7ec029-1db8-4181-b6c6-4d4a95dd81a7")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "#PWR037")
 					(unit 1)
@@ -7841,7 +7841,7 @@
 			(uuid "d0ac8f33-a81e-42f6-a04a-b7119218403d")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "R9")
 					(unit 1)
@@ -7907,7 +7907,7 @@
 			(uuid "61eb6484-5ddd-4115-a42b-6910d8f50319")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "#PWR021")
 					(unit 1)
@@ -7973,7 +7973,7 @@
 			(uuid "5e18d1c9-4cd8-41e5-973b-607849d506c9")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "#PWR035")
 					(unit 1)
@@ -8047,7 +8047,7 @@
 			(uuid "a41cadde-0876-476f-aba7-895fc7d48411")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "10k")
 					(unit 1)
@@ -8131,7 +8131,7 @@
 			(uuid "cc1fe859-67d4-4e21-918c-cf5f2a89adc6")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "SW6")
 					(unit 1)
@@ -8197,7 +8197,7 @@
 			(uuid "8e28d37e-047e-4f9d-852b-6b7dca2e48b4")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "#PWR026")
 					(unit 1)
@@ -8263,7 +8263,7 @@
 			(uuid "0fe9caed-a9d2-4151-82d7-8ecb847b1ef2")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "#PWR03")
 					(unit 1)
@@ -8337,7 +8337,7 @@
 			(uuid "94e23d94-937e-43cf-92eb-64b1fc5e3324")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "J5")
 					(unit 1)
@@ -8404,7 +8404,7 @@
 			(uuid "51e8bddb-ef0b-4688-8cdf-a5b9989b649c")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "#PWR034")
 					(unit 1)
@@ -8470,7 +8470,7 @@
 			(uuid "292be9d3-2ace-40ed-a743-6cfc7eace12d")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "#PWR015")
 					(unit 1)
@@ -8536,7 +8536,7 @@
 			(uuid "39757d78-0256-4bec-b433-87e88ee7c80a")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "#PWR022")
 					(unit 1)
@@ -8602,7 +8602,7 @@
 			(uuid "79bb554c-86e4-406d-828e-b319cc766b48")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "#PWR014")
 					(unit 1)
@@ -8679,7 +8679,7 @@
 			(uuid "df8849f5-8522-4e85-b792-86e3b14be8e8")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "J4")
 					(unit 1)
@@ -8749,7 +8749,7 @@
 			(uuid "7cf21712-056f-4013-9c18-59d121bdbebe")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "R10")
 					(unit 1)
@@ -8819,7 +8819,7 @@
 			(uuid "0c1c5c71-26d6-40c7-8d8d-5cae3dd0c260")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "R14")
 					(unit 1)
@@ -8893,7 +8893,7 @@
 			(uuid "e0ae052d-3350-4180-9c8a-4e9a981dd915")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "10k")
 					(unit 1)
@@ -8959,7 +8959,7 @@
 			(uuid "c145e073-8520-4f8f-98fa-d5222260d5f7")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "#PWR020")
 					(unit 1)
@@ -9120,7 +9120,7 @@
 			(uuid "915e9fda-522a-420d-a8e8-d2c080ad87ee")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "A1")
 					(unit 1)
@@ -9194,7 +9194,7 @@
 			(uuid "1d9fc674-8144-4981-be05-7afaea8c4f77")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "10k")
 					(unit 1)
@@ -9264,7 +9264,7 @@
 			(uuid "9bc71f91-8ec1-4aa4-b881-86618eba9e20")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "R11")
 					(unit 1)
@@ -9338,7 +9338,7 @@
 			(uuid "02ad9425-66e8-4be6-92ab-9618f9748df0")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "10k")
 					(unit 1)
@@ -9419,7 +9419,7 @@
 			(uuid "5fbbcb30-f7ec-454c-813c-aebc4cd872c0")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "SW2")
 					(unit 1)
@@ -9485,7 +9485,7 @@
 			(uuid "9864540d-7a71-47bc-b7a3-4ba86868c487")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "#PWR05")
 					(unit 1)
@@ -9551,7 +9551,7 @@
 			(uuid "c6af9d55-6b02-4f4b-afb5-a21cc97b6373")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "#PWR06")
 					(unit 1)
@@ -9617,7 +9617,7 @@
 			(uuid "f2fef855-057b-46f9-8fd1-d2526808f87c")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "#PWR011")
 					(unit 1)
@@ -9682,7 +9682,7 @@
 			(uuid "6acf69b6-6480-4164-b3bb-24dc15fd499b")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "#PWR01")
 					(unit 1)
@@ -9752,7 +9752,7 @@
 			(uuid "51bd4948-67b6-4677-b0b3-bd49462a22e1")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "R8")
 					(unit 1)
@@ -9845,7 +9845,7 @@
 			(uuid "5b4ba69d-ef03-419e-a6f8-09548f456d94")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "J1")
 					(unit 1)
@@ -9926,7 +9926,7 @@
 			(uuid "89fb0571-7a40-492e-8a9d-9c72666aed59")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "SW3")
 					(unit 1)
@@ -9992,7 +9992,7 @@
 			(uuid "a8a44bec-6dd9-49bb-9005-84d894ac4a54")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "#PWR018")
 					(unit 1)
@@ -10058,7 +10058,7 @@
 			(uuid "9bcd7253-e905-4527-bead-cc6c579106e3")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "#PWR07")
 					(unit 1)
@@ -10139,7 +10139,7 @@
 			(uuid "ecf8b3da-7357-4602-afc9-58ac4a27af91")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "SW1")
 					(unit 1)
@@ -10205,7 +10205,7 @@
 			(uuid "a4de25d9-71d2-416d-8786-321242ca5b4c")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "#PWR031")
 					(unit 1)
@@ -10279,7 +10279,7 @@
 			(uuid "01ea582f-5a6f-483e-b4b2-e923958013d4")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "10k")
 					(unit 1)
@@ -10346,7 +10346,7 @@
 			(uuid "29820377-550d-40de-9aa7-581eca463d11")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "#PWR036")
 					(unit 1)
@@ -10416,7 +10416,7 @@
 			(uuid "3a5098a9-b16f-4754-b9a1-49372204a0c1")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "R6")
 					(unit 1)
@@ -10482,7 +10482,7 @@
 			(uuid "c05a5ce6-5bd0-4644-aaee-3d04fc6d31da")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "#PWR027")
 					(unit 1)
@@ -10552,7 +10552,7 @@
 			(uuid "c0daf79a-e685-49f5-9d9e-cb12826c5abc")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "R12")
 					(unit 1)
@@ -10618,7 +10618,7 @@
 			(uuid "b91bcaf4-dfa0-4f03-88d4-dbc0faa629e4")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "#PWR09")
 					(unit 1)
@@ -10684,7 +10684,7 @@
 			(uuid "7b4ce81c-4c62-4b7f-b1d1-e08601c7a86b")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "#PWR032")
 					(unit 1)
@@ -10752,7 +10752,7 @@
 			(uuid "6950fb0d-87ad-4469-a2a9-330567ec3747")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "SW7")
 					(unit 1)
@@ -10821,7 +10821,7 @@
 			(uuid "4638fbd3-4b68-464d-b3a3-32f8390d77f2")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "R18")
 					(unit 1)
@@ -10895,7 +10895,7 @@
 			(uuid "bcadedd5-804a-4e62-96e4-2be45d1fcae4")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "10k")
 					(unit 1)
@@ -10988,7 +10988,7 @@
 			(uuid "cc2bfe88-cf05-4ea6-9322-5ab72208ae0b")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "J2")
 					(unit 1)
@@ -11057,7 +11057,7 @@
 			(uuid "b35f4d2a-4ec8-416c-af97-2296165060d3")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "R16")
 					(unit 1)
@@ -11123,7 +11123,7 @@
 			(uuid "37f4b4df-f4c4-4c77-a70e-fb96aa4d13a5")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "#PWR08")
 					(unit 1)
@@ -11197,7 +11197,7 @@
 			(uuid "a5e83bc6-066f-4ac8-9442-e4664ae40e1f")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "J6")
 					(unit 1)
@@ -11263,7 +11263,7 @@
 			(uuid "9fc981ee-3b63-49ca-b481-7ffa38042b7e")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "#PWR04")
 					(unit 1)
@@ -11329,7 +11329,7 @@
 			(uuid "6b16f197-a4cc-44de-8c0e-0b50b503837b")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "#PWR012")
 					(unit 1)
@@ -11399,7 +11399,7 @@
 			(uuid "97300925-6db4-45cf-909e-a3d2ab3fa2b2")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "R2")
 					(unit 1)
@@ -11469,7 +11469,7 @@
 			(uuid "e5e3c291-c81d-420c-b01b-c534736832d6")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "R13")
 					(unit 1)
@@ -11538,7 +11538,7 @@
 			(uuid "dc431753-0a0d-4f11-92aa-2f048fae4f8d")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "R17")
 					(unit 1)
@@ -11608,7 +11608,7 @@
 			(uuid "978e977f-8bb7-461c-b3cf-c1ceccc68d20")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "JP1")
 					(unit 1)
@@ -11692,7 +11692,7 @@
 			(uuid "d05dd553-56cf-43dc-b223-d88cf20508ef")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "SW4")
 					(unit 1)
@@ -11758,7 +11758,7 @@
 			(uuid "3288b9d7-e305-45ad-81d5-09caba6feaaf")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "#PWR023")
 					(unit 1)
@@ -11823,7 +11823,7 @@
 			(uuid "8b59dbbd-5bfe-453e-a910-affdb6529ead")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "#PWR029")
 					(unit 1)
@@ -11889,7 +11889,7 @@
 			(uuid "a0828de6-8b23-48f4-b07d-3123b1d26fd7")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "#PWR010")
 					(unit 1)
@@ -11955,7 +11955,7 @@
 			(uuid "94b1dd75-efc5-466d-8b6b-aa1fd155346f")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "#PWR025")
 					(unit 1)
@@ -12025,7 +12025,7 @@
 			(uuid "bc0b0c03-7290-4d58-ae1e-9ec51adf8cbd")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "R7")
 					(unit 1)
@@ -12094,7 +12094,7 @@
 			(uuid "a0b9abc5-d44a-43ce-a70c-2522f00d37fa")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "R20")
 					(unit 1)
@@ -12163,7 +12163,7 @@
 			(uuid "7ec1a299-47fa-43c2-a869-b38ade17634e")
 		)
 		(instances
-			(project "PuppetSynth_v2"
+			(project "PuppetSynth"
 				(path "/b9381281-6da1-4065-9201-2b82cfef582e"
 					(reference "R1")
 					(unit 1)
