@@ -26,28 +26,32 @@ Puppet Synth is a digital reinterpretation of Sophie Taeuber-Arp’s avant-garde
 
 ```mermaid
 flowchart TD
-    Interface["🎛️ Physical Interface"] --> Wave["🌊 Waveform Generator / Manipulation"]
-    Wave --> MIDI["🎹 MIDI / Control Signal"]
+    Interface["🎛️ Physical Interface"] --> Arduino["Analog Signal processing"]
+    Arduino --> MIDI["🎹 MIDI / Control Signal"]
 
-    MIDI --> FMOD["🔊 FMOD (Audio Synthesis)"]
-    MIDI --> UnityAnim["🕺 Unity Animator (Puppet Control)"]
+    MIDI --> WaveSynthesis["Wave synthesis"] --> FMOD["🔊 FMOD (Audio Synthesis)"]
+    WaveSynthesis --> UnityAnim["🕺 Unity Animator (Puppet Control)"]
 
     FMOD --> Audio["🎵 Dynamic Audio Output"]
     UnityAnim --> Visual["🎭 Puppet Animation in Unity"]
 
     Audio & Visual --> Output["🎬 Final Experience (Live AV Performance)"]
 ```
-
-### Visual Style
-
-
 ### Interface
 
 The interface consists of 5 types of inputs: rotary switches, smooth rotary potentiometers, linear potentiometers (faders), and momentary 3 position toggle switches.
-
+<p align="center">
 <img src="/Images/InterfaceDescription.png" alt="Interface Diagram" width="80%"/>
+</p>
 
-## Exhibition
+### Visual Style
+
+The visual style takes inspiration from Sophie Täuber-Arp's minimal color palette and simple revolved shapes that make up the marionettes.
+<p align="center">
+<img src="/Images/VisualStyle.png" alt="Interface Diagram" width="40%"/>
+</p>
+
+## Experience
 
 ## Repository files
 
