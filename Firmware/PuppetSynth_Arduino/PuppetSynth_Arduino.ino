@@ -50,34 +50,34 @@ struct InputMapping {
 
 InputMapping leonardo [] = {
 
-//  Number   functionName       pinNumber   readSignal  inMin, inMax    outMin, outMax  	mappedSignal    midiChannel
-// -----------------------------------------------------------------------------------------------------------------------
-    {0,      "EMPTY",			      0,			0,			0,  0,			  OUT_MIN, OUT_MAX,           0,				0			},
-    {1,      "FREQ_3",			    A2,			0,			0, 1023, 	    OUT_MIN, OUT_MAX,	          0,				12			},  // ---------------------------------------------------------------------------------------
-    {2,      "AMP_1",			      A5,			0,			15, 1000,	    OUT_MIN, OUT_MAX,	          0,				1			},
-    {3,     "AMP_2",			      A4,			0,			15, 1000,	    OUT_MIN, OUT_MAX,	          0,				2			},
-    {4,     "AMP_3",			      A1,			0,			15, 1000,	    OUT_MIN, OUT_MAX,	          0,				3			},
-    {5,     "EFFECT_1",		      A0,			0,			1023, 510,		OUT_MIN, OUT_MAX,	          0,				32			},
-    {6,     "EFFECT_3",		      A3,			0,			1023, 510,		OUT_MIN, OUT_MAX,	          0,				34			},
+  //  Index   functionName       pinNumber   readSignal  inMin, inMax    outMin, outMax  	mappedSignal    midiChannel
+  // -----------------------------------------------------------------------------------------------------------------------
+      {0,      "EMPTY",			      0,			      0,		    0,  0,			  OUT_MIN, OUT_MAX,        0,				0		  	},
+      {1,      "FREQ_3",			    A2,			      0,		    0, 1023, 	    OUT_MIN, OUT_MAX,	       0,				12			}, 
+      {2,      "AMP_1",			      A5,			      0,		    15, 1000,	    OUT_MIN, OUT_MAX,	       0,				1		  	},
+      {3,     "AMP_2",			      A4,			      0,		    15, 1000,	    OUT_MIN, OUT_MAX,	       0,				2		  	},
+      {4,     "AMP_3",			      A1,			      0,		    15, 1000,	    OUT_MIN, OUT_MAX,	       0,				3		  	},
+      {5,     "EFFECT_1",		      A0,			      0,		    1023, 510,		OUT_MIN, OUT_MAX,	       0,				32			},
+      {6,     "EFFECT_3",		      A3,			      0,		    1023, 510,		OUT_MIN, OUT_MAX,	       0,				34			},
 };		
 
 InputMapping ads1[] = {
-    //  Number   functionName       pinNumber   readSignal  inMin, inMax    outMin, outMax  	mappedSignal    midiChannel
+    //  Index   functionName       pinNumber   readSignal  inMin, inMax    outMin, outMax  	mappedSignal    midiChannel
     // -----------------------------------------------------------------------------------------------------------------------
-        {0,      "EFFECT_2",			  0,			0,			4400, 32700,		OUT_MIN, OUT_MAX,   0,				33},
-        {1,      "WAVE_TYPE_2",		  3,  		0,			20200, 29800,	OUT_MIN, OUT_MAX,	0,				16			},  //ads1
-        {2,      "FREQ_1",			    2,			0,			-10, 33000,		OUT_MIN, OUT_MAX,	0,				10			},  //ads1    ---------------------------------------------------------------------------------------
-        {3,      "FREQ_2",			    1,			0,			-10, 33000,		OUT_MIN, OUT_MAX,	0,				11			},  //ads1    ---------------------------------------------------------------------------------------
+        {0,      "EFFECT_2",			  0,		    	0,		    	4400, 32700,	  OUT_MIN, OUT_MAX,   0,				33      },
+        {1,      "WAVE_TYPE_2",		  3,  	    	0,		    	20200, 29800,	  OUT_MIN, OUT_MAX,	  0,				16			},
+        {2,      "FREQ_1",			    2,		    	0,		    	-10, 33000,		  OUT_MIN, OUT_MAX,	  0,				10			},
+        {3,      "FREQ_2",			    1,		    	0,		    	-10, 33000,	  	OUT_MIN, OUT_MAX,	  0,				11			},
 };	
 
 InputMapping ads2[] = {
-    //  Number   functionName       pinNumber   readSignal  inMin, inMax    outMin, outMax  	mappedSignal    midiChannel
+    //  Index   functionName       pinNumber   readSignal  inMin, inMax    outMin, outMax  	mappedSignal    midiChannel
     // -----------------------------------------------------------------------------------------------------------------------
-    {0,      "EMPTY",			          0,			0,			0,  0,			  OUT_MIN, OUT_MAX,   0,			0			  },
-    {1,      "MAIN_SPEED",		      2,			0,			0, 32000,		  OUT_MIN, OUT_MAX,	0,				9			  },  //ads2 (changed values)
-    {2,      "MAIN_FREQ",		        3,			0,			60, 32000,		  OUT_MIN, OUT_MAX,	0,				8			  },  //ads2 (changed values)
-    {3,      "WAVE_TYPE_1",		      0,			0,			20200, 29900,	OUT_MIN, OUT_MAX,	0,				15			},  //ads2
-    {4,      "WAVE_TYPE_3",		      1,			0,			20200,29900,	OUT_MIN, OUT_MAX,	0,				17			},  //ads2
+    {0,      "EMPTY",			          0,		    	0,		    	0,  0,			    OUT_MIN, OUT_MAX,   0,			  0			  },
+    {1,      "MAIN_SPEED",		      2,		    	0,		    	0, 32000,		    OUT_MIN, OUT_MAX,	  0,				9			  },  
+    {2,      "MAIN_FREQ",		        3,		    	0,		    	60, 32000,		  OUT_MIN, OUT_MAX,	  0,				8			  },  
+    {3,      "WAVE_TYPE_1",		      0,		    	0,		    	20200, 29900,	  OUT_MIN, OUT_MAX,	  0,				15			},  
+    {4,      "WAVE_TYPE_3",		      1,		    	0,		    	20200,29900,	  OUT_MIN, OUT_MAX,	  0,				17			},  
 };
 
 
