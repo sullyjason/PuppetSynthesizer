@@ -1,0 +1,30 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model PS100-1B1BR10K
+#/1650949/1615980/2.50/9/3/Variable Resistor
+DEF PS100-1B1BR10K VR 0 30 Y Y 1 F N
+F0 "VR" 950 300 50 H V L CNN
+F1 "PS100-1B1BR10K" 950 200 50 H V L CNN
+F2 "PS1001B1BR10K" 950 100 50 H I L CNN
+F3 "https://www.ttelectronics.com/TTElectronics/media/ProductFiles/Datasheet/PS100.pdf" 950 0 50 H I L CNN
+F4 "Res POT 10K Ohm 20% 0.25W(1/4W) (127.8 X 8.4 X 21.5mm) Pin Thru-Hole" 950 -100 50 H I L CNN "Description"
+F5 "22" 950 -200 50 H I L CNN "Height"
+F6 "858-PS1001B1BR10K" 950 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/BI-Technologies-TT-Electronics/PS100-1B1BR10K?qs=56eeD6vBg8jMJMnK9qLHzw%3D%3D" 950 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "TT Electronics" 950 -500 50 H I L CNN "Manufacturer_Name"
+F9 "PS100-1B1BR10K" 950 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X CCW 1 0 0 200 R 50 50 0 0 P
+X WIPER 2 0 -100 200 R 50 50 0 0 P
+X CW 3 0 -200 200 R 50 50 0 0 P
+X MH1 4 0 -300 200 R 50 50 0 0 P
+X MH2 5 0 -400 200 R 50 50 0 0 P
+X MP1 6 1100 0 200 L 50 50 0 0 P
+X MP2 7 1100 -100 200 L 50 50 0 0 P
+X MP3 8 1100 -200 200 L 50 50 0 0 P
+X MP4 9 1100 -300 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 900 100 900 -500 200 -500 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

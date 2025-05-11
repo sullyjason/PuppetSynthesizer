@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PS100-1B1BR10K
+D Res POT 10K Ohm 20% 0.25W(1/4W) (127.8 X 8.4 X 21.5mm) Pin Thru-Hole
+K
+F https://www.ttelectronics.com/TTElectronics/media/ProductFiles/Datasheet/PS100.pdf
+$ENDCMP
+#
+#End Doc Library
