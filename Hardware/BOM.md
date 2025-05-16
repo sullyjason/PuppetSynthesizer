@@ -18,3 +18,6 @@
 | JST 2.50mm Vertical 5-pin Socket        |       6 | —                                                                                                           |
 | JST 3-pin Cable                         |      11 | —                                                                                                           |
 | JST 5-pin Cable                         |       3 | —                                                                                                           |
+| Countersunk screw M2x6                  |       6 | —                                                                                                           |
+| Countersunk screw M3x6                  |       4 | —                                                                                                           |
+| Countersunk screw M5x10                 |       4 | —                                                                                                           |
