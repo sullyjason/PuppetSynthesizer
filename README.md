@@ -10,12 +10,12 @@ For the Exhibition "Museum of the Future" in 2025, Zürich's Museum für Gestalt
 
 The team consists of five members coming from various disciplines.
 
-- Lisa Bach (@ ) - Unity 3D and creative direction
+- Lisa Bach (@julielionheart) - Unity 3D and creative direction
 - Silvan Roth (@sullyjason) - Interface design and hardware
 - Jan Hügli - Prototyping and production
-- Jan Thürig (@ ) - Unity 3D, development
-- Jan Espig (@ ) - Visual design
-- Lars Kristian Blom & David Bock - Sound design
+- Jan Thürig (@JanThuering) - Unity 3D, development
+- Jan Espig (@Jespig) - Visual design
+- David Bock (@davidoffcw) & Lars Kristian (@larskristianblom) - Sound design
 
 ## Concept
 
@@ -58,7 +58,7 @@ The visual style takes inspiration from Sophie Täuber-Arp's minimal color palet
 - Firmware (arduino code)
 - Electronic Design files
 - CAD drawings and STLs
-- Unity build and packages
+- Unity build and project files
 - FMOD code
 
 
