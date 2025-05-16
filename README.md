@@ -13,7 +13,7 @@ The team consists of five members coming from various disciplines.
 - Lisa Bach [@julielionheart](https://github.com/julielionheart) - Unity 3D and creative direction
 - Silvan Roth [@sullyjason](https://github.com/sullyjason) - Interface design and hardware
 - Jan Hügli - Prototyping and production
-- Jan Thürig [@JanThuering](https://github.com/JanThuering) - Unity 3D, development
+- Jan Thürig [@JanThuering](https://github.com/JanThuering) - Unity 3D and firmware
 - Jan Espig [@Jespig](https://github.com/Jespig) - Visual design
 - David Bock [@davidoffcw](https://github.com/davidoffcw) & Lars Kristian [@larskristianblom](https://github.com/larskristianblom) - Sound design
 
