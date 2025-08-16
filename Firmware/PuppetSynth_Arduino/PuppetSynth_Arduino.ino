@@ -92,8 +92,8 @@ void setup(){
     Wire.setClock(400000); // Set I2C clock speed to 400kHz (optional)
   
     // Enable internal pull-up resistors on SDA and SCL
-    digitalWrite(SDA, HIGH);
-    digitalWrite(SCL, HIGH);
+    // digitalWrite(SDA, HIGH);
+    //digitalWrite(SCL, HIGH);
   
     // Initialize the first ADS1115 (address 0x48)
     if (!analogBoard1.begin(0x48)) {
